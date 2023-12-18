@@ -1,0 +1,2 @@
+# Pseudocodigo
+ Exercícios em Portugol.
